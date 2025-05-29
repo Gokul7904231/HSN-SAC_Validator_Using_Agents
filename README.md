@@ -18,9 +18,13 @@ This project is an intelligent agent built using Google's **Agent Developer Kit 
 /project
 │
 ├── SAC_MSTR.csv # Master dataset of HSN/SAC codes and descriptions
+
 ├── agent.py # ADK logic for validation and suggestions
+
 ├── README.md # Project documentation (this file)
+
 ├── requirements.txt # (Optional) List of Python dependencies
+
 └── output_screenshots/ # (Optional) Screenshots of agent in action
 
 ---
